@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-A new sample mobile app.
+
 
 ## Getting Started
 
